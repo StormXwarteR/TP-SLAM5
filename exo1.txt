@@ -1,2 +1,8 @@
 Coucou c'est moi
+<<<<<<< HEAD
 qdfqffdf
+=======
+#test
+#test2
+#etape1
+>>>>>>> 7e2159bd7478aeaef96b1e47c4e3a81ea613d4d3
